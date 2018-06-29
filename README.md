@@ -1,2 +1,2 @@
-Face Alignment implemetation baseline
+Face Alignment implementation baseline
 ====
